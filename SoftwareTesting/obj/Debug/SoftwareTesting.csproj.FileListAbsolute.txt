@@ -1,0 +1,10 @@
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\bin\Debug\SoftwareTesting.exe.config
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\bin\Debug\SoftwareTesting.exe
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\bin\Debug\SoftwareTesting.pdb
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\obj\Debug\SoftwareTesting.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\obj\Debug\SoftwareTesting.Form1.resources
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\obj\Debug\SoftwareTesting.Properties.Resources.resources
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\obj\Debug\SoftwareTesting.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\obj\Debug\SoftwareTesting.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\obj\Debug\SoftwareTesting.exe
+C:\Mac\Home\Documents\3RD\3RD-II\kiem-thu-phan-mem\do-an\SoftwareTesting\SoftwareTesting\obj\Debug\SoftwareTesting.pdb
